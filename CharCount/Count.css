@@ -1,0 +1,27 @@
+.Count-Page{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  background-color: aquamarine;
+}
+
+.Count-Title{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.Count-Input{
+  min-height: 100px;
+  min-width: 599px;
+  max-width: 600px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.Count-Result{
+  font-size: 24px;
+  font-weight: bold;
+}
+
